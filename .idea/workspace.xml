@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1594d0ec-c8bf-4fff-a903-336634bb2d94" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/t_SNE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/t_SNE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hyperspectral dataset t-SNE.py" beforeDir="false" afterPath="$PROJECT_DIR$/hyperspectral dataset t-SNE.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yJBsgx6tGpHxt6FawoWSHo6eao" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="hyperspectral dataset t-SNE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="t_SNE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hyperspectral dataset t-SNE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hyperspectral dataset t-SNE" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1594d0ec-c8bf-4fff-a903-336634bb2d94" name="默认更改列表" comment="" />
+      <created>1631960018541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631960018541</updated>
+      <workItem from="1631960019713" duration="37000" />
+      <workItem from="1631968509630" duration="326000" />
+      <workItem from="1631970199844" duration="2073000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="497" y="113" key="FileChooserDialogImpl" timestamp="1631970391425">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="497" y="113" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1631970391425" />
+    <state width="1522" height="268" key="GridCell.Tab.0.bottom" timestamp="1631970777649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1522" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1631970777649" />
+    <state width="1522" height="268" key="GridCell.Tab.0.center" timestamp="1631970777649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1522" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1631970777649" />
+    <state width="1522" height="268" key="GridCell.Tab.0.left" timestamp="1631970777649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1522" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1631970777649" />
+    <state width="1522" height="268" key="GridCell.Tab.0.right" timestamp="1631970777649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1522" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1631970777649" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1631970397737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1631970397737" />
+    <state x="396" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1631970214755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="396" y="199" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1631970214755" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/t_SNE$hyperspectral_dataset_t_SNE.coverage" NAME="hyperspectral dataset t-SNE Coverage Results" MODIFIED="1631970777634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
