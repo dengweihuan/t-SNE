@@ -5,8 +5,6 @@ from sklearn.manifold import TSNE
 from scipy.io import loadmat
 import matplotlib.pyplot as plt
 import matplotlib as mpl
-im_mat1 = loadmat('G:\hyperspectral image dataset\public dataset\IndianPines\Indian_pines_corrected.mat') #Change to own directory
-image1 = im_mat1['indian_pines_corrected']
 #im_mat1 = loadmat('G:\hyperspectral image dataset\public dataset\pavia\PaviaU.mat') #Switch to own directory
 #image1 = im_mat1['paviaU']
 #print(im_mat1.keys())
